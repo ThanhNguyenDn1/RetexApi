@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API TEST</string>
+    <string name="loading">Loading...</string>
+    <string name="get_data_error">get data error!!!</string>
+</resources>
